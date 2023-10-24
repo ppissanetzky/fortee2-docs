@@ -1,4 +1,7 @@
 site_name: fortee2 help
+site_url: https://help.fortee2.com
 theme:
   name: readthedocs
   highlightjs: true
+nav:
+  - Home: index.md
