@@ -1,1 +1,4 @@
 site_name: fortee2 help
+theme:
+  name: readthedocs
+  highlightjs: true
