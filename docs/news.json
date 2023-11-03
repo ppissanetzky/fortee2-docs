@@ -5,5 +5,9 @@
             "text": "learn more",
             "url": "https://help.fortee2.com/changelog/5.22.1/"
         }
+    },
+    {
+        "title": "The sign out button disappeared!",
+        "body": "Yes, it is no longer at the top right next to your name, but you can still get to it by selecting your name on the left side."
     }
 ]
