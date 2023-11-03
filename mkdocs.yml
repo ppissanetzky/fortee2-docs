@@ -5,3 +5,5 @@ theme:
   highlightjs: true
 nav:
   - Home: index.md
+  - New Features:
+    - 'changelog/5.22.1/index.md'
