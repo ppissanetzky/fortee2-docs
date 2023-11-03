@@ -7,7 +7,15 @@
         }
     },
     {
-        "title": "The sign out button disappeared!",
+        "title": "The sign out button disappeared",
         "body": "Yes, it is no longer at the top right next to your name, but you can still get to it by selecting your name on the left side."
+    },
+    {
+        "title": "Let's keep it free",
+        "body": "Although fortee2 is free to play, it costs to keep it running. Consider making a small donation to help cover these costs and keep it free to play.",
+        "link": {
+            "text": "donate",
+            "url": "https://www.paypal.com/donate/?business=HS465FN6SX8XG&no_recurring=0&item_name=fortee2.com+maintenance+costs.+&currency_code=USD"
+        }
     }
 ]
