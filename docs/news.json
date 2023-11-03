@@ -1,6 +1,9 @@
 [
     {
-        "title": "Check out the latest features!",
-        "link": "https://help.fortee2.com/changelog/5.22.1/"
+        "title": "Version 5.22.1 added notifications!",
+        "link": {
+            "text": "learn more",
+            "url": "https://help.fortee2.com/changelog/5.22.1/"
+        }
     }
 ]
