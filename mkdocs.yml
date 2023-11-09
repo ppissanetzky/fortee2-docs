@@ -5,5 +5,7 @@ theme:
   highlightjs: true
 nav:
   - Home: index.md
+  - How to:
+    - start-a-game.md
   - Releases:
-    - 'changelog/5.22.1/index.md'
+    - changelog/5.22.1/index.md
